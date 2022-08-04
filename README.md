@@ -41,5 +41,5 @@ This is a module I created with PowerShell Help and common functions I use when 
     open-matches -- opens the files found with sls	
 
 ## Installation
-Open PowerShell as administrator in the directory where the ForensicHelp resides and run
+Open PowerShell as administrator in the directory where the ForensicHelp directory resides and run
     import-module ForensicsHelp -force
